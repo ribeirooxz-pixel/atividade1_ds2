@@ -1,3 +1,4 @@
+//atividade 1 DS2: calculo total de produto
 function calculoTotal(preco, quantidade) {
   if (preco > 0 && quantidade > 0) 
   return preco * quantidade;
